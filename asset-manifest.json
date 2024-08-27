@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.176b99b4.css",
+    "main.js": "/static/js/main.f1e0d65a.js",
+    "static/js/787.4128ae36.chunk.js": "/static/js/787.4128ae36.chunk.js",
+    "static/media/portfolio-project-1.png": "/static/media/portfolio-project-1.871296f67a455d96bde0.png",
+    "static/media/portfolio-project-7.png": "/static/media/portfolio-project-7.2c1ebb6d6fb2325879a9.png",
+    "static/media/portfolio-project-6.png": "/static/media/portfolio-project-6.35f6bb1271d19326c353.png",
+    "static/media/portfolio-project-3.png": "/static/media/portfolio-project-3.d82f21e863a2d95973e1.png",
+    "static/media/Ashraf_Resume.pdf": "/static/media/Ashraf_Resume.9247c482ce5d5e0f6241.pdf",
+    "static/media/portfolio-project-4.png": "/static/media/portfolio-project-4.a1d514f0351dd9f9a6ad.png",
+    "static/media/webdev.svg": "/static/media/webdev.80d48f4797a85962149f7d56a454e535.svg",
+    "static/media/portfolio-project-2.png": "/static/media/portfolio-project-2.e023d062d49bffd06ae3.png",
+    "static/media/cloudBg.png": "/static/media/cloudBg.f28b5c6961fd82be839c.png",
+    "static/media/cloudDark.png": "/static/media/cloudDark.51edaa54cabe7b964ae9.png",
+    "static/media/portfolio-project-5.png": "/static/media/portfolio-project-5.1aaefb15efa4256ff823.png",
+    "index.html": "/index.html",
+    "main.176b99b4.css.map": "/static/css/main.176b99b4.css.map",
+    "main.f1e0d65a.js.map": "/static/js/main.f1e0d65a.js.map",
+    "787.4128ae36.chunk.js.map": "/static/js/787.4128ae36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176b99b4.css",
+    "static/js/main.f1e0d65a.js"
+  ]
+}
